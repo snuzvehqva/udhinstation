@@ -3,7 +3,7 @@
 	generator-info-name="epg.pw"
 	generator-info-url="https://epg.pw/channels/417399/20250427.html"
 	source-info-name="FREE EPG"
-	source-info-url="https://epg.pw/api/epg.xml?channel_id=417399&date=20250427&timezone=None">
+	source-info-url="https://epg.pw/api/epg.xml?channel_id=417399date=20250427timezone=None">
 <channel id="417399">
 <display-name lang="Indonesia">Trans7</display-name>
 <icon src=""/>
