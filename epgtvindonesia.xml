@@ -2,8 +2,7 @@
 <tv date="20250427233604 +0800"
 	generator-info-name="epg.pw"
 	generator-info-url="https://epg.pw/channels/417399/20250427.html"
-	source-info-name="FREE EPG"
-	source-info-url="https://epg.pw/api/epg.xml?channel_id=417399date=20250427timezone=None">
+	source-info-name="FREE EPG">
 <channel id="417399">
 <display-name lang="Indonesia">Trans7</display-name>
 <icon src=""/>
