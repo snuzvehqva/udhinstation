@@ -1,5 +1,6 @@
 <tv>
   <channel id="Mnctv.id">
-    <display-name>MNCTV</display-name>
+    <display-name lang="Indonesia">MNCTV</display-name>
+    <icon src=""/>
   </channel>
 </tv>
