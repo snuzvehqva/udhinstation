@@ -4,4 +4,57 @@
     <display-name lang="Indonesia">MNCTV</display-name>
     <icon src=""/>
   </channel>
+ <programme start="20250506033000 +0700" stop="20250506043000 +0700" channel="MNCTV.id">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20250506043000 +0700" stop="20250506050000 +0700" channel="MNCTV.id">
+    <title lang="id">Jurnal Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20250506050000 +0700" stop="20250506060000 +0700" channel="MNCTV.id">
+    <title lang="id">Siraman Qolbu</title>
+  </programme>
+  <programme start="20250506060000 +0700" stop="20250506063000 +0700" channel="MNCTV.id">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20250506063000 +0700" stop="20250506070000 +0700" channel="MNCTV.id">
+    <title lang="id">Cocomelon</title>
+  </programme>
+  <programme start="20250506070000 +0700" stop="20250506080000 +0700" channel="MNCTV.id">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20250506080000 +0700" stop="20250506100000 +0700" channel="MNCTV.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20250506100000 +0700" stop="20250506110000 +0700" channel="MNCTV.id">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+  <programme start="20250506110000 +0700" stop="20250506130000 +0700" channel="MNCTV.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20250506130000 +0700" stop="20250506150000 +0700" channel="MNCTV.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20250506150000 +0700" stop="20250506163000 +0700" channel="MNCTV.id">
+    <title lang="id">Petualangan Fantastis Kiko</title>
+  </programme>
+  <programme start="20250506163000 +0700" stop="20250506173000 +0700" channel="MNCTV.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20250506173000 +0700" stop="20250506190000 +0700" channel="MNCTV.id">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20250506190000 +0700" stop="20250506191500 +0700" channel="MNCTV.id">
+    <title lang="id">Entong</title>
+  </programme>
+  <programme start="20250506191500 +0700" stop="20250506193000 +0700" channel="MNCTV.id">
+    <title lang="id">Kuis Berhadiah Motion Bank</title>
+  </programme>
+  <programme start="20250506193000 +0700" stop="20250506213000 +0700" channel="MNCTV.id">
+    <title lang="id">Family 100</title>
+  </programme>
+  <programme start="20250506213000 +0700" stop="20250506230000 +0700" channel="MNCTV.id">
+    <title lang="id">DMD Panggung Rezeki (L)</title>
+  </programme>
+  <programme start="20250506230000 +0700" stop="20250507000000 +0700" channel="MNCTV.id">
+    <title lang="id">Si Buta Dari Gua Hantu</title>
 </tv>
